@@ -23,6 +23,9 @@
 hs_err_pid*
 replay_pid*
 
+# DS Store files
+.DS_Store/
+
 # Firebase service account key file
 serviceAccountKey.json/
 
