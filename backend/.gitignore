@@ -30,6 +30,7 @@ build/
 !**/src/test/**/build/
 
 /serviceAccountKey.json
+.DS_Store
 
 ### VS Code ###
 .vscode/
